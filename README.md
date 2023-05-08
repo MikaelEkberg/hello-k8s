@@ -14,4 +14,4 @@ The web app is created with Next.js and chakra-ui. It uses the following environ
 - K8S_POD
 - K8S_NODE
 
-If the environment variables are not set, the web site will display the value **Unknown**
+If the environment variables are not set, the web app will display the value **Unknown**
